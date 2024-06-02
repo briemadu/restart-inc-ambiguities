@@ -1,0 +1,6 @@
+# diaparser==1.1.3 We use our own fork of diaparser
+numpy==1.26.4
+pandas==2.0.0
+# supar==1.1.4 We use our own fork of supar
+torch==2.1.1
+tqdm==4.66.1
