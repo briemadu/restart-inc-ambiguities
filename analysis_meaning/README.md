@@ -70,9 +70,3 @@ Columns and their descriptions:
 
 # Notes
 - Parts of the code rely on models having only 12 + 1 layers.
-
-# ToDos
-
-- double check vmin, vmax for all plots
-- also look at std deviations, we want a low std for the effect over stimuli  
-- create anon github
